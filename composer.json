@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rubensayshi/bitcoind-php"
+        }
+    ],
+    "require": {
+        "bitwasp/bitcoin": "v0.0.31.2",
+        "nbobtc/bitcoind-php": "dev-1.x-fix-arg"
+    }
+}
